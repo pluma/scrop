@@ -2,9 +2,13 @@
 
 **scrop** is a simple function for cropping sequences (arrays, strings, buffers, anything with a `slice` method) to a given length.
 
+[![stability 3 - stable](http://b.repl.ca/v1/stability-3_--_stable-yellowgreen.png)
+](http://nodejs.org/api/documentation.html#documentation_stability_index) [![license - Unlicense](http://b.repl.ca/v1/license-Unlicense-lightgrey.png)](http://unlicense.org/) [![Flattr this](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=pluma&url=https://github.com/pluma/scrop)
+
 [![browser support](https://ci.testling.com/pluma/scrop.png)](https://ci.testling.com/pluma/scrop)
 
-[![Build Status](https://travis-ci.org/pluma/scrop.png?branch=master)](https://travis-ci.org/pluma/scrop) [![NPM version](https://badge.fury.io/js/scrop.png)](http://badge.fury.io/js/scrop) [![Dependencies](https://david-dm.org/pluma/scrop.png)](https://david-dm.org/pluma/scrop)
+[![Build Status](https://travis-ci.org/pluma/scrop.png?branch=master)](https://travis-ci.org/pluma/scrop) [![Coverage Status](https://coveralls.io/repos/pluma/scrop/badge.png?branch=master)](https://coveralls.io/r/pluma/scrop?branch=master) [![Dependencies](https://david-dm.org/pluma/scrop.png?theme=shields.io)](https://david-dm.org/pluma/scrop)
+
 
 # Install
 
