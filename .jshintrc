@@ -15,6 +15,7 @@
     "white": false,
     "globals": {
         "require": false,
-        "module": false
+        "module": false,
+        "Buffer": true
     }
 }
