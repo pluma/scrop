@@ -1,0 +1,25 @@
+{
+  "name": "scrop",
+  "repo": "pluma/vals",
+  "description": "Crops a sequence to a given length.",
+  "keywords": [
+    "crop",
+    "slice",
+    "array",
+    "buffer",
+    "sequence",
+    "string"
+  ],
+  "version": "0.1.1",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": ["dist/scrop.js"],
+  "main": "./dist/scrop.js",
+  "ignore": [
+    "**/.*",
+    "build",
+    "components",
+    "node_modules"
+  ],
+  "license": "UNLICENSE"
+}
